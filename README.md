@@ -6,4 +6,4 @@ Microservice for Students
 * Ruby on Rails
 * MySQL
 
-Ahora en DockerHub
+Ahora en DockerHub.
